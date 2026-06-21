@@ -1,7 +1,29 @@
-venv/
+# Python
 __pycache__/
 *.pyc
-data/raw/*.csv
-data/stocksense.db
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual Environment
+venv/
+.venv/
+
+# Model files
+*.pkl
+*.joblib
+
+# Environment Variables
 .env
+
+# macOS
 .DS_Store
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Logs
+*.log
