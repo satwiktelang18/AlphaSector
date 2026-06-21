@@ -25,7 +25,7 @@ app = FastAPI(title="StockSense API", lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://localhost:5173"],
+    allow_origin_regex=r"https://.*\.vercel\.app|http://localhost:(3000|5173)",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
