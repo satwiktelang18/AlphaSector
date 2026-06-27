@@ -49,10 +49,10 @@ The platform combines modern **React**, **FastAPI**, and **XGBoost** into a resp
 ## Screenshots 📸
 
 ### Dashboard
-<img width="1283" height="779" alt="Screenshot 2026-06-27 at 8 24 51 PM" src="https://github.com/user-attachments/assets/94848fff-2eb4-4273-8510-d1bdf8ac5ee8" />
+<img width="1428" height="799" alt="Screenshot 2026-06-27 at 8 22 40 PM" src="https://github.com/user-attachments/assets/d83e4d30-d36d-4d76-8c0c-112a3caa9ad6" />
 
 ### Sector Detail
-<img width="1428" height="799" alt="Screenshot 2026-06-27 at 8 22 40 PM" src="https://github.com/user-attachments/assets/d83e4d30-d36d-4d76-8c0c-112a3caa9ad6" />
+<img width="1283" height="779" alt="Screenshot 2026-06-27 at 8 24 51 PM" src="https://github.com/user-attachments/assets/94848fff-2eb4-4273-8510-d1bdf8ac5ee8" />
 
 ### Stock Search
 <img width="1308" height="735" alt="Screenshot 2026-06-27 at 8 24 14 PM" src="https://github.com/user-attachments/assets/bb082a19-8e4c-42fe-bd90-2eb16e42be17" />
